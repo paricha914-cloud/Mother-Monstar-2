@@ -1,3 +1,3 @@
-# assets/concept-art
+# Concept art
 
-Drop image files here.
+Mood frames and key art.

@@ -1,3 +1,3 @@
-# assets/posters
+# Posters
 
-Drop image files here.
+Poster and key art.
