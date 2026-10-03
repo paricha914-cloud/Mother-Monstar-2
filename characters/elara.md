@@ -60,6 +60,50 @@ Plain, short sentences. Pleads rather than argues. Repeats herself under pressur
 - *"Take care, my little baby."*
 - *"He'll come back for me."* ← **her last line, and a promise Part 2 owes the audience**
 
-## Part 2 notes
+---
 
-Her grave in the valley behind the village is a location Ember dug himself. Her voice is the natural source of Ember's conscience in Part 2 — the restraint he was taught (*"Don't hurt anyone"*) against the revenge he's owed.
+# PART 2 — Production Draft v03
+
+| | |
+|---|---|
+| **Role** | Memory · spirit · the release |
+| **Appears as** | **(a)** a warm living memory insert (SC01) · **(b)** her spirit, **once** (SC08) · **(c)** a face in the clouds (SC12) |
+| **Design** | ⚠️ **APPROVED HUMAN *AND* SPIRIT REFERENCES — DO NOT REDESIGN.** Same face and clothes in both. |
+
+## ⚠️ The unbreakable rule
+
+> **Elara cannot return to life. Her death is not undone.** (principle 8)
+
+- SC01's memory is **Elara alive in the past** — *never* a present-day ghost.
+- SC08's spirit comes to **release** him, not to come back.
+- He kisses **the headstone**, not a newly living body.
+- SC12's cloud face is a **poetic image, not proof of resurrection.**
+
+Love does not replace her. That is the theme.
+
+## Her function in Part 2
+
+She is the only character who can free Ember from the vigil, because she is the only one he made the promise to. Her spirit does three things in SC08 and then goes:
+
+1. **Refuses resurrection** — *"I cannot return, my son."*
+2. **Releases him from guilt about loving someone else** — *"But you do not lose me by loving someone else."*
+3. **Sends him** — *"That princess truly loves you. Go save her. It is my final wish."*
+
+Plus a brief reminder of **mercy** — which pays off directly as *"No more."* in SC09.
+
+Then she touches his lowered head, and fades.
+
+## Part 2 lines
+
+| Scene | Line |
+|---|---|
+| SC01 *(memory, optional)* | *"Be gentle, my son."* |
+| SC08 | *"I cannot return, my son. But you do not lose me by loving someone else."* |
+| SC08 | *"That princess truly loves you. Go save her. It is my final wish."* |
+| SC08 | *(brief reminder of mercy)* |
+
+> ⚠️ These are **newly scripted lines**, not quotations from Part 1.
+
+## Aurelia and Elara
+
+They never meet, and Aurelia **never takes her place** — SC12 stages this literally: Aurelia stands *beside* Ember at the grave, not in Elara's position. The final image holds **mother, memory and future together.**

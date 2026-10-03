@@ -1,28 +1,22 @@
-# THE MOTHERS MONSTAR — CHAPTER TWO
+# THE MOTHER'S MONSTER: PART 2
 
-> English-language dark fantasy. Sequel to *"She Gave Birth to a Dragon | The Mothers Monster"*.
-> **In development.**
+> English-language dark fantasy · **28:00** · Production Draft v03
+> Sequel to *"She Gave Birth to a Dragon | The Mothers Monster"*
 
-This repository is the **production hub**: story, screenplay, characters, world-building,
-concept art and production planning — all version-controlled.
+**Production hub** — story, screenplay, characters, world-building, shot planning and
+concept art, all version-controlled.
 
 ---
 
-## Where Part 1 left off
+## Logline
 
-Elara, a young woman in a frozen mountain village, gave birth to a dragon and raised him
-in secret. She named him **Ember**. The village found out, called her a witch, drove Ember
-off and killed her. They refused her a grave. Ember came back, found her body in the valley,
-and buried his mother himself.
+> A dragon trapped beside his mother's grave must leave the only place he still feels loved
+> to save a princess who accepted him as he was. Choosing mercy over revenge opens a future
+> he never imagined, without undoing the loss of his mother.
 
-Her last words: ***"He'll come back for me."***
-His: ***"I will come back."***
+## Core theme
 
-📄 Full canon breakdown → [`reference/part-1-canon.md`](reference/part-1-canon.md)
-
-## What Chapter Two promises
-
-> *"She saved him when the whole world wanted him dead. Now someone has written down what he really is. **Every monster has a father.**"*
+> **Love does not erase grief. It gives us the courage to carry it into a life that still matters.**
 
 ---
 
@@ -30,17 +24,43 @@ His: ***"I will come back."***
 
 | Area | State |
 |---|---|
-| Part 1 canon reference | ✅ Documented |
-| Returning characters | ✅ 6 profiled from canon |
-| World bible | 🟡 Part 1 facts locked, Part 2 open |
-| Locations | 🟡 5 established, Part 2 open |
-| Logline (Part 2) | ⬜ **Waiting on your story** |
-| Synopsis (Part 2) | ⬜ **Waiting on your story** |
-| Treatment / beat sheet | ⬜ |
-| Screenplay | ⬜ Draft 0 |
-| New characters | ⬜ **Waiting on your designs** |
-| Concept art | ⬜ |
-| Poster | ⬜ |
+| Part 1 canon reference | ✅ 41 beats documented |
+| Story treatment v03 | ✅ Structured into 12 scenes, 4 acts |
+| Logline · synopsis · themes | ✅ |
+| Characters | ✅ 10 profiled (5 new, 5 from Part 1) |
+| World bible + transformation rule | ✅ |
+| Locations + named background states | ✅ 7 locations mapped |
+| **Timing verification** | ✅ **140 × 12s = 1,680s = 28:00 exactly** |
+| Shot list scaffold | ✅ All 140 shots with timecodes |
+| **Continuity check vs. Part 1** | ⚠️ **2 red items need your decision** |
+| Shot descriptions | ⬜ 0 / 140 |
+| Screenplay (Fountain) | ⬜ Draft 0 |
+| Scene frames | ⬜ 0 / 140 (5 prototype batch first) |
+| Concept art / poster | ⬜ |
+
+---
+
+## Start here
+
+| Document | What it is |
+|---|---|
+| 📄 [`story/_source-revised-story-v03.md`](story/_source-revised-story-v03.md) | **The master source**, verbatim. Everything else derives from it. |
+| 🎬 [`story/treatment.md`](story/treatment.md) | Scene-by-scene with timecodes, plants/payoffs and the causal chain |
+| ⚠️ [`reference/continuity-check.md`](reference/continuity-check.md) | **Draft v03 vs. Part 1 — 2 red, 6 amber, 4 green** |
+| 📜 [`reference/part-1-canon.md`](reference/part-1-canon.md) | Everything Part 2 must stay consistent with |
+| 🎯 [`production/shot-list.md`](production/shot-list.md) | All 140 shots, timecoded, ready to fill |
+| 🧭 [`world/locations.md`](world/locations.md) | The connected winter valley + named background states |
+
+---
+
+## Structure
+
+| Act | Scenes | Time | |
+|---|---|---|---|
+| **I — Grief and Recognition** | SC01–SC04 | 00:00–08:00 | The vigil, the princess, the plants |
+| **II — Compassion Becomes a Risk** | SC05–SC08 | 08:00–18:00 | The ambush, the ransom, **the release** |
+| **III — Strength Without Cruelty** | SC09–SC10 | 18:00–24:00 | **Mercy over revenge**, the transformation |
+| **IV — A Love Carried Forward** | SC11–SC12 | 24:00–28:00 | Judged by deeds, grief carried forward |
 
 ---
 
@@ -48,52 +68,56 @@ His: ***"I will come back."***
 
 ```
 .
+├── story/
+│   ├── _source-revised-story-v03.md   ⭐ Master source, verbatim — do not edit
+│   ├── logline.md · synopsis.md · treatment.md · themes.md
+│
 ├── reference/
-│   └── part-1-canon.md     ⭐ Everything Part 2 must stay consistent with
+│   ├── part-1-canon.md                41-beat Part 1 breakdown
+│   └── continuity-check.md            ⚠️ Draft v03 vs. Part 1
 │
-├── story/                  logline · synopsis · treatment (3-act beats) · themes
-├── world/                  world-bible · locations
+├── characters/     ember · aurelia · elara · the-king · royal-captain
+│                   bandit-leader/scout/enforcer · marta · father-elden · nessa · ram
+├── world/          world-bible.md (+ transformation rule) · locations.md
 │
-├── characters/
-│   ├── index.md            Cast at a glance
-│   ├── ember.md            The dragon — Part 2 protagonist
-│   ├── elara.md            The Mother (deceased)
-│   ├── marta.md            The Accuser
-│   ├── nessa.md            The one kind villager
-│   ├── father-elden.md     The priest
-│   ├── ram.md              The one who tied the rope
-│   └── _template.md        Copy this for each new character
+├── production/
+│   ├── shot-list.md                   140 shots, timecoded
+│   ├── make-shotlist.py               Regenerates + re-verifies the timing
+│   ├── storyboard.md · production-notes.md
 │
-├── script/
-│   └── mother-monstar.fountain   Screenplay — Fountain format, exports to PDF
-│
-├── production/             shot-list · storyboard · production-notes
-└── assets/                 characters/ · concept-art/ · locations/ · posters/
+├── script/         mother-monstar.fountain
+└── assets/         characters/ · concept-art/ · locations/ · posters/
 ```
 
 ---
 
-## Continuity rules (do not break)
+## ⚠️ The eight principles — do not break
 
-1. **Ember is not a villain.** Part 1 establishes him as obedient, defensive, and loving. Restraint is his character.
-2. **Fire is learned, not innate.** Part 1 made it a milestone.
-3. **He grows fast.** A time-skip is justified in-world.
-4. **Elara's rule — *"Don't hurt anyone"*** — is the moral spine. Part 2's conflict is Ember holding or breaking it.
-5. **Marta, Father Elden and Ram survive** and were never punished.
-6. **The valley grave** is sacred ground Ember made himself.
+1. Compassion does not erase Ember's responsibility for the burned village.
+2. Aurelia loves the **dragon** before any human form exists — and acts during her captivity.
+3. The three visits do **different** work: restraint → connection → voluntary affection.
+4. The tale is **planted, never sought**. The tear completes an *earned* change, not a cure.
+5. The rescue destroys **weapons and structures, not people**. Surrendering enemies are spared.
+6. Fainting is fear + exhaustion + magical shock — **not beauty**.
+7. The King approves because of **deeds** and his daughter's free choice — not appearance.
+8. **Elara cannot return to life.** Her spirit releases Ember; love does not replace her.
 
----
+## Production guardrails
 
-## Why Fountain for the screenplay?
-
-[Fountain](https://fountain.io) is plain-text screenplay markup: readable as-is, diffs cleanly
-in Git, and exports to industry-standard PDF or Final Draft via free tools
-(Highland, Slugline, Afterwriting, `screenplain`).
+- ⚠️ **Approved character references — no redesign. No new speaking characters.**
+- Background masters in their **named states** are mandatory scene-frame inputs.
+- One **completed scene frame** per clip — never separate portraits + empty background.
+- SC10's transformation is a **match cut**, never a long generative morph.
+- SC09's destruction is a **prebuilt scorched state**, never a simulated collapse.
+- No readable AI-generated text on the King's book.
+- Expect model drift. **Review and reject wrong takes.**
 
 ---
 
 ## Credits
 
-Part 1 — *The Mothers Monster* (2026): story, screenplay and direction by **Zahid Iqbal**, © **ZETOMATE**, released on the **MYTHRA** channel.
+Part 1 — *The Mothers Monster* (2026): story, screenplay and direction by **Zahid Iqbal**,
+© **ZETOMATE**, released on the **MYTHRA** channel.
 
-Chapter Two credits: _TBD_
+Part 2 — Production Draft v03. *A creative sequel proposal; not a claim about official
+source-film lore.* Credits _TBD_.

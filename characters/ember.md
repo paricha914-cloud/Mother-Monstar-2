@@ -48,15 +48,77 @@ Any Part 2 that makes him a simple monster betrays Part 1.
 | Loss | Roped, driven off, returns too late |
 | End | Buries his mother. Alone. Promises to come back. |
 
-## Arc available in Part 2
+---
 
-The whole film is the tension between two instructions:
+# PART 2 — Production Draft v03
 
-| Elara's teaching | The world's lesson |
+| | |
 |---|---|
-| *"Don't hurt anyone."* | They killed her anyway. |
+| **Role** | **Protagonist** |
+| **Forms** | **Dragon** (SC01–SC10) → **Human** (SC10–SC12) |
+| **Design** | ⚠️ **APPROVED DRAGON *AND* HUMAN REFERENCES — DO NOT REDESIGN** |
+| **Voice** | ⚠️ **Same voice actor for both forms** |
+| **Human wardrobe** | Approved **ivory tunic + dusty-rose cloak**. No nude transformation, no new prince design. |
 
-Plus the teaser's two new pressures: **someone has written down what he really is**, and **he has a father**.
+## Where he starts
+
+Immense, curled around a human-sized grave on the ridge. He has not left. Behind him, distant but visible, the **village he burned in anger** — the film never pretends that didn't happen (principle 1).
+
+## The central conflict
+
+> Two promises pull in opposite directions.
+
+| The vigil | The cry |
+|---|---|
+| *"I promised I would stay."* | *"Help me, Ember!"* |
+| Love as grief, standing still | Love as action, moving forward |
+
+Only Elara herself can resolve it — and she does, by **releasing** him, not by returning.
+
+## Part 2 arc
+
+| Scene | State |
+|---|---|
+| SC01 | Frozen in vigil. Guilt and grief. *"Mom... I'm still here."* |
+| SC02 | Turns away from kindness |
+| SC04 | Accepts a little food. First crack in the vigil |
+| SC08 | Hears her. Torn. Released by Elara's spirit. Kisses the headstone and flies |
+| SC09 | **Refuses the old answer.** Breaks weapons, not men. *"No more."* |
+| SC10 | Loved as a dragon. The tear. The change. |
+| SC11 | Accountable, not absolved: *"I cannot undo what I did. I can choose what I do next."* |
+| SC12 | Married. Still bringing roses to the grave. *"I still carry you, Mom."* |
+
+## ⭐ The payoff that makes the film work
+
+Part 1's Ember **obeyed** *"Don't hurt anyone."*
+Part 2's Ember **chooses** it — with his mother dead, with the people who threaten the woman he loves in front of him, and with revenge fully available.
+
+That is the whole movie in one word: ***"No more."***
+
+## Part 2 abilities
+
+| Ability | Note |
+|---|---|
+| **Acute hearing** | ⭐ **NEW** — deliberately planted in SC04 (the bird) so the SC08 cry is physics, not telepathy |
+| Controlled fire | He aims it at the **weapon rack and structures**, not people |
+| Flight | Ridge → camp across the ravine |
+| Restraint | **His defining ability.** When an enemy drops a weapon, he stops. |
+
+## Human form — hard rules
+
+1. ❌ **Never** call the human body his *true* or morally superior form.
+2. ✅ **The same eyes.** Aurelia recognises him by eyes and voice, not beauty.
+3. ✅ The change is **earned** — rescue, then mercy, then love, *then* the tear.
+4. ⚠️ **Production:** white-gold light + **match cut** from an approved dragon frame to an approved human frame. Never a long generative morph — the model will invent the wrong face.
+
+## Signature lines (Part 2)
+
+- *"Mom... I'm still here."* (SC01, V.O.)
+- *"Mom, I love you!"* / *"I promised I would stay."* (SC08)
+- ***"No more."*** (SC09)
+- *"Aurelia? Stay with me."* (SC10)
+- *"I cannot undo what I did. I can choose what I do next."* (SC11)
+- *"I still carry you, Mom."* (SC12)
 
 ## Design notes
 
